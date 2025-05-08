@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ecd95e18.css",
+    "main.js": "/static/js/main.be35f066.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/portrait-beautiful-happy-bride-with-wedding-makeup-wedding-hairstyle.jpg": "/static/media/portrait-beautiful-happy-bride-with-wedding-makeup-wedding-hairstyle.7225ed097c8c684011d0.jpg",
+    "static/media/happy-fashion-women-bouquet-flowers.jpg": "/static/media/happy-fashion-women-bouquet-flowers.2275731763fcf8d02aa9.jpg",
+    "static/media/hairoff.jpg": "/static/media/hairoff.c4efec160d90d61f89a4.jpg",
+    "static/media/beautiful-young-woman-wearing-sari.jpg": "/static/media/beautiful-young-woman-wearing-sari.4431c21400b0951d567e.jpg",
+    "static/media/faceoff.jpg": "/static/media/faceoff.ba18ae2b1d2c76dff24a.jpg",
+    "static/media/bodycare.png": "/static/media/bodycare.45a430774debf97e88a7.png",
+    "static/media/Aboutusimg2.png": "/static/media/Aboutusimg2.3b7b57b4b5017626d09b.png",
+    "static/media/bridalimg1.png": "/static/media/bridalimg1.2caceaaf6264ef45707d.png",
+    "static/media/skincare.png": "/static/media/skincare.3070c9d9099844f481b6.png",
+    "static/media/Aboutusimg.png": "/static/media/Aboutusimg.2c5ade3a6ba247737f1a.png",
+    "static/media/Haircare.png": "/static/media/Haircare.f90b62c7f329745a09c8.png",
+    "index.html": "/index.html",
+    "main.ecd95e18.css.map": "/static/css/main.ecd95e18.css.map",
+    "main.be35f066.js.map": "/static/js/main.be35f066.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecd95e18.css",
+    "static/js/main.be35f066.js"
+  ]
+}
